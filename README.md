@@ -7,3 +7,4 @@ It goes in detail on how to practically do this.
 First Detectron2 is finetuned to recognise to desired object and used to build a basic representation of the image.
 The representation is then given to a neural network that returns the distance.
 Training is via supervised learning with a labeled dataset that cannot be uploaded on github and its available upon request.
+Everything is explained in details (in italian) in the report.
